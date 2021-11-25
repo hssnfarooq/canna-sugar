@@ -881,4 +881,9 @@ header #menu-bars {
   .hero-content .hero-item-image > img {
     margin-right: -15rem;
   }
+
+  .hero-content .hero-item-image > img {
+    height: 36rem;
+    /* margin-right: -38rem; */
+  }
 }
