@@ -796,6 +796,10 @@ header #menu-bars {
     margin-right: -28rem;
     vertical-align: bottom;
   }
+  .hero-content .hero-item-image > img {
+    height: 56rem;
+    /* margin-right: -38rem; */
+  }
 }
 
 @media (max-width: 757px) {
