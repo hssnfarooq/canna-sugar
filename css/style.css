@@ -891,3 +891,13 @@ header #menu-bars {
     /* margin-right: -38rem; */
   }
 }
+
+@media (max-width: 425px) {
+  .hero-content .hero-item-image > img {
+    margin-right: -15rem;
+  }
+
+  .hero-content .hero-item-image > img {
+    height: 32rem;
+  }
+}
